@@ -1,0 +1,7 @@
+print(type('欧阳小鹏'))
+print(type(b'\xd5\xd4\xd3\xee\xb7\xe3'))
+print("欧阳小鹏".encode('GB2312'))
+print(b'\xc5\xb7\xd1\xf4\xd0\xa1\xc5\xf4'.decode('GB2312'))
+print("欧阳小鹏".encode('UTF-8'))
+print(b'\xe6\xac\xa7\xe9\x98\xb3\xe5\xb0\x8f\xe9\xb9\x8f'.decode('UTF-8'))
+

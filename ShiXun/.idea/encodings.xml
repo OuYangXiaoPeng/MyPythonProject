@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/craft1.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/craft2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day2/Five.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day2/Four.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day2/Two.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day2/test1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day2/徐小刚信息.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day2/表格等文件/员工发展基金确认表.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day2/表格等文件/环节成绩登记册20221106093434.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day3/21计应301.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day3/One.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day4/One.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day4/Three.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day4/Two.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day4/to_addrs.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day5/One.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day8/天气.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day8/电影.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/歌曲排名.csv" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
